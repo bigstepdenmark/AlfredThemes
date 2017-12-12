@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FEFFFFFF",
+        "font" : "PT Mono",
+        "color" : "#6C7095FF"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#D6F891FF",
+        "font" : "PT Mono",
+        "color" : "#6C7095FF"
+      },
+      "backgroundSelected" : "#282B40FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#D6F891FF",
+        "font" : "PT Mono",
+        "color" : "#CF92E9FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#282C40FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#000000FF",
+        "font" : "PT Mono",
+        "color" : "#D6F891FF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#282B40FF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#E1404900",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Ismail Cam",
+    "separator" : {
+      "color" : "#282B40FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#243236FF",
+      "thickness" : 2
+    },
+    "name" : "Material v2"
+  }
+}

@@ -8,3 +8,9 @@ Some themes I've made for Alfred 3.
 
 ### Dark American
 ![enter image description here](images/darkamerican.jpg)
+
+### Material
+![enter image description here](images/material.jpg)
+
+### Material v2
+![enter image description here](images/materialv2.jpg)
