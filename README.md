@@ -4,7 +4,7 @@ Some themes I've made for Alfred 3.
 ---
 
 ### American
-![enter image description here](images/american.png)
+![enter image description here](images/american.jpg)
 
 ### Dark American
-![enter image description here](images/darkamerican.png)
+![enter image description here](images/darkamerican.jpg)
