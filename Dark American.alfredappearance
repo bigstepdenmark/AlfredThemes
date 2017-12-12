@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#54BE5AFF",
+        "font" : "Courier",
+        "color" : "#69878FFF"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#69868EFF",
+        "font" : "Courier",
+        "color" : "#69868EFF"
+      },
+      "backgroundSelected" : "#282B35FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Courier",
+        "color" : "#D08E5DFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 8,
+      "iconSize" : 40
+    },
+    "search" : {
+      "paddingVertical" : 2,
+      "background" : "#282B35FF",
+      "spacing" : 10,
+      "text" : {
+        "size" : 26,
+        "colorSelected" : "#000000FF",
+        "font" : "Courier",
+        "color" : "#CF8E5DFF"
+      },
+      "backgroundSelected" : "#B5D5FFFF"
+    },
+    "window" : {
+      "color" : "#282B35FF",
+      "paddingHorizontal" : 10,
+      "width" : 680,
+      "borderPadding" : 10,
+      "borderColor" : "#E1404900",
+      "blur" : 0,
+      "roundness" : 3,
+      "paddingVertical" : 10
+    },
+    "credit" : "Ismail Cam",
+    "separator" : {
+      "color" : "#282B35FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#373B4AFF",
+      "thickness" : 2
+    },
+    "name" : "Dark American"
+  }
+}
